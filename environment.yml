@@ -1,0 +1,5 @@
+name: base
+dependencies:
+  - scikit-image
+  - scikit-learn
+
